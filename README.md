@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="src/assets/images/logo_purple.svg" alt="GoBarber" width="90">
+  <img src="src/assets/logo_purple.svg" alt="GoBarber" width="90">
 <br>
 <br>
 GoBarber
@@ -11,16 +11,18 @@ GoBarber
 <hr />
 
 ![SignIn](https://github.com/MatheusMdn/gobarber-web/blob/master/src/assets/signIn.jpeg)
+<br>
+![Profile](https://github.com/MatheusMdn/gobarber-web/blob/master/src/assets/profile.jpeg)
 
 ## Ferramentas
 
 Este aplicativo apresenta todas as mais recentes ferramentas e práticas em desenvolvimento web!
 
-- ⚛ **React** — Biblioteca para construção de interfaces
-- ♻ **Redux com Redux Saga** — Gerenciamento de estado com middleware
-- 💅 **CSS** — styled-components
-- 🌸 **Reactotron** - Ajuda no processo de debugging
-- 💖 **Lint** — ESlint/Prettier/Editor Config
+- ⚛  **React** — Biblioteca para construção de interfaces
+- ♻  **Redux com Redux Saga** — Gerenciamento de estado com middleware
+- 💅  **CSS** — styled-components
+- 🌸  **Reactotron** - Ajuda no processo de debugging
+- 💖  **Lint** — ESlint/Prettier/Editor Config
 
 ## Como Utilizar
 
