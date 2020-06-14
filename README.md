@@ -36,7 +36,7 @@ Este aplicativo apresenta todas as mais recentes ferramentas e práticas em dese
 ## Como Utilizar
 
 
-1. Clone esse repositório usando `https://github.com/MatheusMdn/gobarber-web`
+1. Clone esse repositório usando `https://github.com/MatheusMdn/gobarber-web.git`
 2. Mova-se para o diretorio apropriado: `cd gobarber-web`.<br />
 3. Rode `yarn`para instalar as dependências.<br />
 4. Rode `yarn start` para ver um exemplo da aplicacão em `http://localhost:3000`.
